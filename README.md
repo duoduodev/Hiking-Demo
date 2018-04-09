@@ -43,5 +43,8 @@ If you when to see the detail of all entities you can log in as admin :
 * Username : 'admin'  Password : 'admin'
 
 
+# What you should see 
 
+![Home Parge](JHipster-UltraTeam-Demo-Home.png)
+![Map Page](JHipter-UltraTeam-7.1-Demo-Map.png)
 
